@@ -1,0 +1,27 @@
+.TamañoDeImg{
+    height: 12rem;
+    width: 8rem;
+}
+.colorDeFondo{
+    background-color: #f8f9fa;
+}
+.TamañoDeCard{
+    width: 25rem;
+}
+.TipoDeLetra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ColorDePrimerBoton{
+    background-color: #e9ecef;
+}
+.ColorDeSegundoBoton{
+    background-color: #dee2e6;
+}
+.TamañoDeImgContraseña{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.TamañoDeImgPrincipalPagina{
+    height: 20rem;
+    width: 20rem;
+}
